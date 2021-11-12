@@ -1,6 +1,6 @@
 # Geospatial
 En esta carpeta se encontrará la vizualización y la estadistica geoespacial
 
-## Visualización geoespacial de datos
+## 1) Visualización geoespacial de datos
 
-## Estadística geoespacial
+## 2) Estadística geoespacial

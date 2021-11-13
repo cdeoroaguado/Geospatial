@@ -1,7 +1,10 @@
 # Geospatial
+
 En esta carpeta se encontrará la vizualización y la estadistica geoespacial
 
 ## 1) Visualización geoespacial de datos
+
+<img src="imagenes/map_1.png" />
 
 Este curso le introducirá en los datos espaciales comenzando con los objetos que ya conoce, los marcos de datos, antes de presentarle los objetos especiales de los paquetes sp y raster utilizados para representar los datos espaciales para el análisis en R. Aprenderá a leer, explorar y manipular estos objetos con la gran recompensa de poder utilizar el paquete tmap para hacer mapas.
 

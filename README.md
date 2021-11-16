@@ -16,4 +16,8 @@ Al final del curso habrás hecho mapas de las ventas de propiedades en una peque
 
 Nos sumergiremos en la visualización de algunos datos espaciales; las ventas de propiedades en una pequeña ciudad de Estados Unidos, utilizando ggplot2 y le presentaremos el paquete ggmap como una forma rápida de añadir contexto espacial a sus gráficos. Hablaremos de lo que hace que los datos espaciales sean especiales y le presentaremos los tipos comunes de datos espaciales con los que trabajaremos a lo largo del curso.
 
+### b) Capítulo 2: Datos de puntos y polígonos
+
+Se puede llegar muy lejos con los datos espaciales almacenados en marcos de datos, pero **facilita la vida si se almacenan en objetos espaciales especiales**. En este capítulo te presentaremos las clases de objetos espaciales que proporciona el **paquete sp**, en particular para los datos de puntos y polígonos. Aprenderás a explorar y subconjuntar estos objetos explorando un mapa del mundo. La recompensa por aprender sobre estas clases de objetos: te mostraremos el **paquete tmap** que requiere objetos espaciales como entrada, pero hace que la creación de mapas sea realmente fácil. Terminarás haciendo un mapa de la población mundial.
+
 ## 2) Estadística geoespacial

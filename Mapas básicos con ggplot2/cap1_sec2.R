@@ -3,7 +3,7 @@ library(tidyverse)
 library(ggmap)
 
 # datos ----
-sales <- read.csv("~/geostat/viz/sales.csv")
+sales <- readRDS("~/geostat/viz/01_corv_sales.rds")
 
 # Ejemplo 1 ----
 

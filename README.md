@@ -20,4 +20,8 @@ Nos sumergiremos en la visualización de algunos datos espaciales; las ventas de
 
 Se puede llegar muy lejos con los datos espaciales almacenados en marcos de datos, pero **facilita la vida si se almacenan en objetos espaciales especiales**. En este capítulo te presentaremos las clases de objetos espaciales que proporciona el **paquete sp**, en particular para los datos de puntos y polígonos. Aprenderás a explorar y subconjuntar estos objetos explorando un mapa del mundo. La recompensa por aprender sobre estas clases de objetos: te mostraremos el **paquete tmap** que requiere objetos espaciales como entrada, pero hace que la creación de mapas sea realmente fácil. Terminarás haciendo un mapa de la población mundial.
 
+### c) Capítulo 3: Datos raster y color
+
+Mientras que el **paquete sp** proporciona algunas clases para datos raster, el paquete raster proporciona más clases útiles. Se le presentarán estas clases y sus ventajas y, a continuación, aprenderá a visualizarlas. Los ejemplos continúan con el tema de la población del capítulo 2, pero verás algunos conjuntos de datos mucho más detallados, tanto espacial como demográficamente. En la segunda mitad del capítulo aprenderás sobre el color, una parte esencial de cualquier presentación visual, pero especialmente importante para los mapas.
+
 ## 2) Estadística geoespacial

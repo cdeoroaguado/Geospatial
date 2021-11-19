@@ -102,7 +102,7 @@ ggplot(preds) +
 # colores en las capas de tmap se especifican en la capa en la que
 # se mapean. Por ejemplo, tome un gráfico de la variable age_18_24
 # de prop_by_age:
-  
+ prop_by_age <- readRDS(file = "_data/03-proportion-by-age.rds") 
 tm_shape(prop_by_age) +
   tm_raster(col = "age_18_24") 
 

@@ -24,4 +24,8 @@ Se puede llegar muy lejos con los datos espaciales almacenados en marcos de dato
 
 Mientras que el **paquete sp** proporciona algunas clases para datos raster, el paquete raster proporciona más clases útiles. Se le presentarán estas clases y sus ventajas y, a continuación, aprenderá a visualizarlas. Los ejemplos continúan con el tema de la población del capítulo 2, pero verás algunos conjuntos de datos mucho más detallados, tanto espacial como demográficamente. En la segunda mitad del capítulo aprenderás sobre el color, una parte esencial de cualquier presentación visual, pero especialmente importante para los mapas.
 
+### d) Importación de datos y proyecciones
+
+En este capítulo seguirás la creación de una visualización desde los archivos de datos espaciales en bruto hasta la adición de un crédito a un mapa. A lo largo del camino, aprenderás cómo leer datos espaciales en R, más sobre proyecciones y sistemas de referencia de coordenadas, cómo añadir datos adicionales a un objeto espacial y algunos consejos para pulir tus mapas.
+
 ## 2) Estadística geoespacial
